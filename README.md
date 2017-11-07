@@ -16,18 +16,18 @@ Writing scripts in [lua](https://www.lua.org/manual/5.1/) is very easy. Checkout
 In order that the script file can be successfully executed you need to declare the function `onScriptTick`.
 ```lua
 function onScriptTick()
-  # your code here
+  -- your code here
 end
 ```
 
 If you have custom data and/or resources which needs to be initialized once and before the actual script then you should declare also the function `onScriptInitialize`.
 ```lua
 function onScriptInitialize()
-  # your code here
+  -- your code here
 end
 
 function onScriptTick()
-  # your code here
+  -- your code here
 end
 ```
 
