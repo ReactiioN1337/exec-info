@@ -13,3 +13,10 @@ function deepcopy(orig)
   end
   return copy
 end
+
+function math.clamp(input, min, max)
+  assert(type(input) == 'number')
+  assert(type(min)   == 'number')
+  assert(type(max)   == 'number')
+  return math.min(max, math.max(min, input))
+end
