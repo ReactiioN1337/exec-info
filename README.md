@@ -33,29 +33,6 @@ end
 
 Keep in mind that both function have no parameters or return value!
 
-## Changelog
-* Version 1.0.0
-  * changed to release
-  * added export: `forceEngineShutdown()` to safe quit exec
-  * fixed several bugs
-
-* Version 0.1.0
-  * updated easy_lua API
-  * changed plugin directories from plugin32/64 to plugins
-
-
-* Version 0.0.3
-  * streaming [resources](https://github.com/ReactiioN1337/exec-info/tree/master/resource)
-
-
-* Version 0.0.2
-  * added `MOUSEEVENTF_XXXX` flags
-  * added `manifest.json` check
-
-
-* Version 0.0.1
-  * initial release
-
 ## Credits
 * [The whole team from Lua](https://www.lua.org/)
 * [Mike Pall](https://github.com/MikePall) for his [LuaJIT](http://luajit.org) interpreter
