@@ -39,3 +39,4 @@ Keep in mind that both function have no parameters or return value!
 * [Niels Lohmann](https://github.com/nlohmann) for his beautiful [JSON header for modern C++](https://github.com/nlohmann/json)
 * [frk](https://github.com/frk1) for his [runtime string encryption using XOR](https://www.unknowncheats.me/forum/c-and-c/164273-xor-compile-time.html)
 * [Chris Foster](https://github.com/c42f) for [his minimal, type safe printf replacement library for C++](https://github.com/c42f/tinyformat)
+* [Craig Mason-Jones](https://github.com/craigmj) for [his JSON encoding / decoding module for Lua](https://github.com/craigmj/json4lua)
