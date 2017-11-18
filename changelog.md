@@ -1,3 +1,11 @@
+1.1.1 / 2017-11-18
+==================
+* :rocket: updated Lua API
+  * :white_check_mark: pluginIsLoaded(name[, find])
+    * `name` - (*string*) - The plugin name (example: `easy_memory86.dll`)
+    * `find` - (*boolean* optional, default `false`) - If `true` the function will succeed if any module contains `name`
+    * **returns:** `true` or `false`
+
 1.1.0 / 2017-11-18
 ==================
 * :rocket: updated Lua API
